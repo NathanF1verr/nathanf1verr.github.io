@@ -14,3 +14,10 @@ h1 {
     width: 10%;
     border-radius: 50%;
 }
+
+.home {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+}
