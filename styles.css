@@ -6,8 +6,14 @@ body {
 
 h1 {
     text-align: center;
-    color: #7289da;
+    color: #ffffff;
     font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: #7289da;
+    font-size: 10px;
 }
 
 .icon_circle {
@@ -21,4 +27,13 @@ h1 {
 .home {
     padding-top: 10%;
     padding-bottom: 10%;
+}
+
+.gig_server_bot {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
 }
