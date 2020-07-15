@@ -2,6 +2,11 @@ body {
     background-color: #282b30;
 }
 
+h1 {
+    text-align: center;
+    color: white;
+}
+
 .icon_circle {
     display: block;
     margin-left: auto;
