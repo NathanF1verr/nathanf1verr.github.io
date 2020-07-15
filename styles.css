@@ -13,7 +13,7 @@ h1 {
 h2 {
     text-align: center;
     color: #7289da;
-    font-size: 10px;
+    font-size: 18px;
 }
 
 .icon_circle {
@@ -31,9 +31,18 @@ h2 {
 
 .gig_server_bot {
     border: none;
-    background-color: inherit;
+    background-color: #7289da;
+    color: #ffffff;
     padding: 14px 28px;
-    font-size: 16px;
+    font-size: 24px;
     cursor: pointer;
-    display: inline-block;
+}
+
+.gig_server_bot:hover {
+    border: none;
+    background-color: #ffffff;
+    color: #7289da;
+    padding: 14px 28px;
+    font-size: 24px;
+    cursor: pointer;
 }
